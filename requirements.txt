@@ -1,0 +1,2 @@
+pycryptodome-test-vectors==1.0.8
+pycryptodomex==3.14.1
